@@ -1,0 +1,6 @@
+{
+  "name": "BharatProcure AI",
+  "description": "Government Innovation & Procurement Intelligence Platform for SIH 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
